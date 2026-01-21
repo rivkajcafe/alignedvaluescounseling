@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Aligned Values Counseling</title>
+  <meta name="description" content="Therapy designed to help you heal, grow, and live in alignment with your values." />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="container nav">
+      <a class="brand" href="index.html">Aligned Values Counseling</a>
+      <nav class="menu">
+        <a href="services.html">Services</a>
+        <a href="about.html">About</a>
+        <a href="contact.html" class="btn">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <p class="kicker">Progress over perfection</p>
+        <h1>Therapy designed to help you heal, grow, and live in alignment with your values.</h1>
+        <div class="hero-actions">
+          <a class="btn" href="contact.html">Reach Out</a>
+          <a class="btn ghost" href="services.html">View Services</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container grid-2">
+        <div>
+          <h2>Meet Frieda</h2>
+          <p>
+            I’m Frieda Hoffer, MA, CMHC, LPC-Associate, a licensed professional counselor specializing in
+            trauma recovery, stress management, and relationship dynamics. I help individuals, couples,
+            and parents navigate life’s challenges with clarity, compassion, and practical strategies
+            that foster real change.
+          </p>
+          <p>
+            My approach is warm, collaborative, and results-oriented. Therapy is focused and purposeful,
+            a space to understand patterns, strengthen connections, and build tools that truly work in everyday life.
+          </p>
+          <a class="link" href="about.html">Learn More →</a>
+        </div>
+
+        <div class="card">
+          <h3>Services</h3>
+          <ul class="bullets">
+            <li><strong>Free 15 Minute Consultation</strong><br><span class="muted">Phone or video, no commitment.</span></li>
+            <li><strong>$90 Individual Session</strong><br><span class="muted">50-minute telehealth sessions.</span></li>
+            <li><strong>$110 Couples Session</strong><br><span class="muted">50-minute sessions to strengthen connection.</span></li>
+          </ul>
+          <a class="btn full" href="services.html">See Details</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section soft">
+      <div class="container">
+        <h2>Let’s Connect</h2>
+        <div class="grid-2">
+          <div class="mini-card">
+            <h4>Anxiety &amp; Stress</h4>
+            <p class="muted">Support for managing worry, tension, overwhelm, and restoring a sense of control.</p>
+          </div>
+          <div class="mini-card">
+            <h4>Depression &amp; Low Mood</h4>
+            <p class="muted">Support for motivation, negative beliefs, rebuilding stability and resilience.</p>
+          </div>
+          <div class="mini-card">
+            <h4>Relationships &amp; Family Dynamics</h4>
+            <p class="muted">Communication, boundaries, reducing conflict, strengthening healthier patterns.</p>
+          </div>
+          <div class="mini-card">
+            <h4>Trauma &amp; Attachment</h4>
+            <p class="muted">Nervous system regulation, emotional safety, and secure connection patterns.</p>
+          </div>
+        </div>
+
+        <div class="center">
+          <a class="btn" href="contact.html">Reach Out</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer">
+      <div>
+        <strong>Aligned Values Counseling</strong>
+        <p class="muted">Client-centered therapy with compassion, clarity, and practical tools.</p>
+      </div>
+      <div>
+        <p><strong>Location</strong><br><span class="muted">Houston, Texas<br>Daytime Telehealth Sessions Available</span></p>
+      </div>
+      <div>
+        <p><strong>Contact</strong><br>
+          <a href="mailto:alignedvaluescounseling@gmail.com">alignedvaluescounseling@gmail.com</a><br>
+          <a href="tel:+13472284850">+1 (347) 228-4850</a>
+        </p>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
