@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Services | Aligned Values Counseling</title>
+  <meta name="description" content="Services: consultation, individual sessions, couples sessions." />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="container nav">
+      <a class="brand" href="index.html">Aligned Values Counseling</a>
+      <nav class="menu">
+        <a class="active" href="services.html">Services</a>
+        <a href="about.html">About</a>
+        <a href="contact.html" class="btn">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="section">
+    <div class="container">
+      <h1>Services</h1>
+
+      <div class="grid-2">
+        <div class="card">
+          <h3>Free 15 Minute Consultation</h3>
+          <p>A brief phone or video consultation to discuss your goals, answer questions, and determine if we’re the right fit.</p>
+          <p class="muted">(No commitment, just a chance to connect.)</p>
+        </div>
+
+        <div class="card">
+          <h3>$90 Individual Session</h3>
+          <p>50-minute sessions focused on your goals and challenges. Build insight, practical coping tools, and clarity.</p>
+        </div>
+
+        <div class="card">
+          <h3>$110 Couples Session</h3>
+          <p>50-minute sessions designed to strengthen communication, understanding, and connection between partners.</p>
+        </div>
+
+        <div class="card">
+          <h3>Telehealth Availability</h3>
+          <p class="quote">Daytime telehealth sessions available to support your mental health wherever you are, with evenings available upon request.</p>
+        </div>
+      </div>
+
+      <div class="center" style="margin-top:24px;">
+
+        <a class="btn" href="contact.html">Let’s Begin</a>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer">
+      <div><strong>Aligned Values Counseling</strong><p class="muted">Client-centered therapy with compassion, clarity, and practical tools.</p></div>
+      <div><p><strong>Location</strong><br><span class="muted">Houston, Texas<br>Daytime Telehealth Sessions Available</span></p></div>
+      <div><p><strong>Contact</strong><br><a href="mailto:alignedvaluescounseling@gmail.com">alignedvaluescounseling@gmail.com</a><br><a href="tel:+13472284850">+1 (347) 228-4850</a></p></div>
+    </div>
+  </footer>
+</body>
+</html>

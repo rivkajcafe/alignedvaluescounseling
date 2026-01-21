@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Contact | Aligned Values Counseling</title>
+  <meta name="description" content="Contact Frieda to book a free 15-minute consultation." />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+
+<body>
+  <header class="site-header">
+    <div class="container nav">
+      <a class="brand" href="index.html">Aligned Values Counseling</a>
+      <nav class="menu">
+        <a href="services.html">Services</a>
+        <a href="about.html">About</a>
+        <a class="active btn" href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="section">
+    <div class="container">
+      <h1>Contact Frieda</h1>
+      <p>
+        If you’re ready to begin, please get in touch or book a free 15-minute consultation.
+        This will give us time to discuss your goals and determine whether we’re a good therapeutic fit.
+      </p>
+
+      <div class="grid-2" style="margin-top:18px;">
+        <div class="card">
+          <h3>Send a Message</h3>
+
+          <!-- 1) Create a Formspree form, then paste your endpoint into action="" below -->
+          <form class="form" action="https://formspree.io/f/PASTE_YOUR_FORM_ID" method="POST">
+            <label>
+              Name
+              <input name="name" type="text" required />
+            </label>
+
+            <label>
+              Email
+              <input name="email" type="email" required />
+            </label>
+
+            <label>
+              Message
+              <textarea name="message" rows="6" required></textarea>
+            </label>
+
+            <!-- Optional: helps reduce spam -->
+            <input type="text" name="_gotcha" style="display:none">
+
+            <button class="btn" type="submit">Send</button>
+            <p class="muted" style="margin-top:10px;">
+              Please avoid including sensitive medical details in this form.
+            </p>
+          </form>
+        </div>
+
+        <div class="card">
+          <h3>Contact Details</h3>
+          <p><strong>Location</strong><br><span class="muted">Houston, Texas<br>Daytime Telehealth Sessions Available</span></p>
+          <p><strong>Email</strong><br><a href="mailto:alignedvaluescounseling@gmail.com">alignedvaluescounseling@gmail.com</a></p>
+          <p><strong>Phone</strong><br><a href="tel:+13472284850">+1 (347) 228-4850</a></p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer">
+      <div><strong>Aligned Values Counseling</strong><p class="muted">Client-centered therapy with compassion, clarity, and practical tools.</p></div>
+      <div><p><strong>Location</strong><br><span class="muted">Houston, Texas<br>Daytime Telehealth Sessions Available</span></p></div>
+      <div><p><strong>Contact</strong><br><a href="mailto:alignedvaluescounseling@gmail.com">alignedvaluescounseling@gmail.com</a><br><a href="tel:+13472284850">+1 (347) 228-4850</a></p></div>
+    </div>
+  </footer>
+</body>
+</html>
